@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MurugeshRajaR
-- 👀 I’m interested in Problem solving and web development
-- 🌱 I’m currently learning Angular and competitive coding
-- 📫 How to reach me ... murugeshraja2000@gmail.com
+- 👀 I’m interested in Problem solving and Full stack web development
+- 🌱 Skills : Python, Java, Javascript, Angular, React, Vue, Node.js, AWS, MongoDB, HTML, CSS
+- 📫 How to reach me ... murugeshraja2000@gmail.com / http://murugeshraja.netlify.app
 
 <!---
 MurugeshRajaR/MurugeshRajaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
